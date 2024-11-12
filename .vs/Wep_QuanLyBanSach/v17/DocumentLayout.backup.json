@@ -1,0 +1,1623 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\controllers\\tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\tacgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\tacgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\itacgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\itacgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\tacgiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\tacgiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\hoadonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\hoadonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\itacgiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\itacgiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\ihoadonctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ihoadonctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\ngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\ngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241112073304_Bookstore10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppData\\Migrations\\20241112073304_Bookstore10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\phieunhapct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\phieunhapct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\sachct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\sachct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\inhaxuatbanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\inhaxuatbanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\theloaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\theloaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\itheloaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\itheloaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\controllers\\ngonngucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\ngonngucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\ingonnguservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ingonnguservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\ngonnguservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ngonnguservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\ingonngurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ingonngurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\migrations\\20241112012717_bookstore00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241112012717_bookstore00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\hoadonct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\hoadonct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\migrations\\20241111093006_bookstore0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241111093006_bookstore0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\nhacungcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\nhacungcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\inhacungcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\inhacungcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\nhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\nhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\inhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\inhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\phieunhapctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\phieunhapctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\iphieunhapctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\iphieunhapctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\phieunhapctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\phieunhapctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\iphieunhapctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\iphieunhapctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\phieunhapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\phieunhapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\iphieunhapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\iphieunhapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\phieunhaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\phieunhaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\iphieunhaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\iphieunhaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\hoadonctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\hoadonctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\ihoadonctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ihoadonctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\hoadonctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\hoadonctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\ihoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ihoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\ihoadonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ihoadonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\sachctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\sachctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\isachctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\isachctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\sachctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\sachctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\isachctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\isachctrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\nhaxuatbanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\nhaxuatbanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\nhaxuatbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\nhaxuatbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\inhaxuatbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\inhaxuatbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\sachrepostitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\sachrepostitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\theloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\theloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\itheloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\itheloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\inhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\inhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\inhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\inhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\ikhachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ikhachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\vaitroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\vaitroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\sachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\sachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\ivaitroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ivaitroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\vaitrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\vaitrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\services\\isachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\isachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\ivaitrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ivaitrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\repositories\\isachrepostitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\isachrepostitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\appdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\appdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\ngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\ngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\sachct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\sachct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\phieunhapct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\phieunhapct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\hoadonct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\hoadonct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39AAB72-4ABA-4E84-9EDF-F472905F1AB4}|AppView\\AppView.csproj|solutionrelative:appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D93EB06D-58C4-4748-B73E-240D00E58ACB}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\migrations\\20241111023139_bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241111023139_bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_quanlybansach\\wep_quanlybansach\\appdata\\migrations\\20241111034614_bookstore2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09C9C3-6304-4018-A400-900E41C99190}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241111034614_bookstore2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbConText.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\MyDbConText.cs",
+              "RelativeDocumentMoniker": "AppData\\MyDbConText.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\MyDbConText.cs",
+              "RelativeToolTip": "AppData\\MyDbConText.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:16:43.803Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\HoaDonRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\HoaDonRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\HoaDonRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\HoaDonRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:17:33.788Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TacGiaController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\TacGiaController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\TacGiaController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\TacGiaController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\TacGiaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:38:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:04:19.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhaXuatBanController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\NhaXuatBanController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\NhaXuatBanController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\NhaXuatBanController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\NhaXuatBanController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:17:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:07:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TacGiaService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\TacGiaService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\TacGiaService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\TacGiaService.cs",
+              "RelativeToolTip": "AppData\\Services\\TacGiaService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:48:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITacGiaService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ITacGiaService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\ITacGiaService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ITacGiaService.cs",
+              "RelativeToolTip": "AppData\\Services\\ITacGiaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:48:43.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TacGiaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\TacGiaRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\TacGiaRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\TacGiaRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\TacGiaRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:40:49.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\HoaDon.cs",
+              "RelativeDocumentMoniker": "AppData\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\HoaDon.cs",
+              "RelativeToolTip": "AppData\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:13:56.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITacGiaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ITacGiaRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\ITacGiaRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ITacGiaRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\ITacGiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:40:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHoaDonCTRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IHoaDonCTRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IHoaDonCTRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IHoaDonCTRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IHoaDonCTRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:19:59.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NgonNgu.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NgonNgu.cs",
+              "RelativeDocumentMoniker": "AppData\\NgonNgu.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NgonNgu.cs",
+              "RelativeToolTip": "AppData\\NgonNgu.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:05:43.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NhanVien.cs",
+              "RelativeDocumentMoniker": "AppData\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NhanVien.cs",
+              "RelativeToolTip": "AppData\\NhanVien.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:08:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "AppData\\NhaCungCap.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NhaCungCap.cs",
+              "RelativeToolTip": "AppData\\NhaCungCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:40:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\TacGia.cs",
+              "RelativeDocumentMoniker": "AppData\\TacGia.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\TacGia.cs",
+              "RelativeToolTip": "AppData\\TacGia.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:16:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241112073304_Bookstore10.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241112073304_Bookstore10.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241112073304_Bookstore10.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241112073304_Bookstore10.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241112073304_Bookstore10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:33:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "AppData\\NhaXuatBan.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\NhaXuatBan.cs",
+              "RelativeToolTip": "AppData\\NhaXuatBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:06:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PhieuNhapCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\PhieuNhapCT.cs",
+              "RelativeDocumentMoniker": "AppData\\PhieuNhapCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\PhieuNhapCT.cs",
+              "RelativeToolTip": "AppData\\PhieuNhapCT.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:15:52.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SachCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\SachCT.cs",
+              "RelativeDocumentMoniker": "AppData\\SachCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\SachCT.cs",
+              "RelativeToolTip": "AppData\\SachCT.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:12:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\KhachHang.cs",
+              "RelativeDocumentMoniker": "AppData\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\KhachHang.cs",
+              "RelativeToolTip": "AppData\\KhachHang.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:58:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\TheLoai.cs",
+              "RelativeDocumentMoniker": "AppData\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\TheLoai.cs",
+              "RelativeToolTip": "AppData\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:05:25.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\DonHang.cs",
+              "RelativeDocumentMoniker": "AppData\\DonHang.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\DonHang.cs",
+              "RelativeToolTip": "AppData\\DonHang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:13:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "AppData\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\PhieuNhap.cs",
+              "RelativeToolTip": "AppData\\PhieuNhap.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:15:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Sach.cs",
+              "RelativeDocumentMoniker": "AppData\\Sach.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Sach.cs",
+              "RelativeToolTip": "AppData\\Sach.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:04:57.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "INhaXuatBanService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INhaXuatBanService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\INhaXuatBanService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INhaXuatBanService.cs",
+              "RelativeToolTip": "AppData\\Services\\INhaXuatBanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:13:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITheLoaiService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ITheLoaiService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\ITheLoaiService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ITheLoaiService.cs",
+              "RelativeToolTip": "AppData\\Services\\ITheLoaiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:06:57.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TheLoaiService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\TheLoaiService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\TheLoaiService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\TheLoaiService.cs",
+              "RelativeToolTip": "AppData\\Services\\TheLoaiService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:07:09.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NgonNguController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\NgonNguController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\NgonNguController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\Controllers\\NgonNguController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\NgonNguController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:43:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "INgonNguService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INgonNguService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\INgonNguService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INgonNguService.cs",
+              "RelativeToolTip": "AppData\\Services\\INgonNguService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:09:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "INgonNguRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INgonNguRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\INgonNguRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INgonNguRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\INgonNguRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:08:54.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NgonNguService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NgonNguService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\NgonNguService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NgonNguService.cs",
+              "RelativeToolTip": "AppData\\Services\\NgonNguService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:10:04.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241112012717_Bookstore00.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241112012717_Bookstore00.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241112012717_Bookstore00.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241112012717_Bookstore00.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241112012717_Bookstore00.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:27:17.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HoaDonCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\HoaDonCT.cs",
+              "RelativeDocumentMoniker": "AppData\\HoaDonCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\HoaDonCT.cs",
+              "RelativeToolTip": "AppData\\HoaDonCT.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:14:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241111093006_Bookstore0.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241111093006_Bookstore0.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241111093006_Bookstore0.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241111093006_Bookstore0.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241111093006_Bookstore0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:30:06.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "VaiTro.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\VaiTro.cs",
+              "RelativeDocumentMoniker": "AppData\\VaiTro.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\VaiTro.cs",
+              "RelativeToolTip": "AppData\\VaiTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:37:16.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "INhaCungCapService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INhaCungCapService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\INhaCungCapService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INhaCungCapService.cs",
+              "RelativeToolTip": "AppData\\Services\\INhaCungCapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:44:15.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NhaCungCapService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NhaCungCapService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\NhaCungCapService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NhaCungCapService.cs",
+              "RelativeToolTip": "AppData\\Services\\NhaCungCapService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:44:23.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20241111034614_BookStore2.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241111034614_BookStore2.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241111034614_BookStore2.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241111034614_BookStore2.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241111034614_BookStore2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:46:14.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\AppAPI.csproj",
+              "RelativeDocumentMoniker": "AppAPI\\AppAPI.csproj",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\AppAPI.csproj",
+              "RelativeToolTip": "AppAPI\\AppAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T03:48:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NhaCungCapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\NhaCungCapRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\NhaCungCapRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\NhaCungCapRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\NhaCungCapRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:43:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "INhaCungCapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INhaCungCapRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\INhaCungCapRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INhaCungCapRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\INhaCungCapRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:43:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PhieuNhapCTService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\PhieuNhapCTService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\PhieuNhapCTService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\PhieuNhapCTService.cs",
+              "RelativeToolTip": "AppData\\Services\\PhieuNhapCTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:25:04.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IPhieuNhapCTService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IPhieuNhapCTService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\IPhieuNhapCTService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IPhieuNhapCTService.cs",
+              "RelativeToolTip": "AppData\\Services\\IPhieuNhapCTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:24:49.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PhieuNhapCTRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\PhieuNhapCTRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\PhieuNhapCTRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\PhieuNhapCTRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\PhieuNhapCTRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:24:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPhieuNhapCTRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IPhieuNhapCTRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IPhieuNhapCTRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IPhieuNhapCTRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IPhieuNhapCTRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:24:03.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PhieuNhapService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\PhieuNhapService.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\PhieuNhapService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\PhieuNhapService.cs",
+              "RelativeToolTip": "AppData\\Repositories\\PhieuNhapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:23:01.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IPhieuNhapService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IPhieuNhapService.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IPhieuNhapService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IPhieuNhapService.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IPhieuNhapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:22:52.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PhieuNhapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\PhieuNhapRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\PhieuNhapRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\PhieuNhapRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\PhieuNhapRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:22:13.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IPhieuNhapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IPhieuNhapRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IPhieuNhapRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IPhieuNhapRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IPhieuNhapRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:22:02.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HoaDonCTService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\HoaDonCTService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\HoaDonCTService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\HoaDonCTService.cs",
+              "RelativeToolTip": "AppData\\Services\\HoaDonCTService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:21:04.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IHoaDonCTService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IHoaDonCTService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\IHoaDonCTService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IHoaDonCTService.cs",
+              "RelativeToolTip": "AppData\\Services\\IHoaDonCTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:20:54.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HoaDonCTRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\HoaDonCTRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\HoaDonCTRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\HoaDonCTRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\HoaDonCTRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:20:10.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HoaDonService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\HoaDonService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\HoaDonService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\HoaDonService.cs",
+              "RelativeToolTip": "AppData\\Services\\HoaDonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:18:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IHoaDonService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IHoaDonService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\IHoaDonService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IHoaDonService.cs",
+              "RelativeToolTip": "AppData\\Services\\IHoaDonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:18:20.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IHoaDonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IHoaDonRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IHoaDonRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IHoaDonRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IHoaDonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:17:20.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SachCTService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\SachCTService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\SachCTService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\SachCTService.cs",
+              "RelativeToolTip": "AppData\\Services\\SachCTService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:15:48.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ISachCTService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ISachCTService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\ISachCTService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ISachCTService.cs",
+              "RelativeToolTip": "AppData\\Services\\ISachCTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:15:35.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SachCTRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\SachCTRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\SachCTRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\SachCTRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\SachCTRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:14:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ISachCTRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ISachCTRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\ISachCTRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ISachCTRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\ISachCTRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:14:50.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NhaXuatBanService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NhaXuatBanService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\NhaXuatBanService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NhaXuatBanService.cs",
+              "RelativeToolTip": "AppData\\Services\\NhaXuatBanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:13:12.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "NhaXuatBanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\NhaXuatBanRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\NhaXuatBanRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\NhaXuatBanRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\NhaXuatBanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:12:13.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "INhaXuatBanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INhaXuatBanRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\INhaXuatBanRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INhaXuatBanRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\INhaXuatBanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:12:00.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SachRepostitory.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\SachRepostitory.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\SachRepostitory.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\SachRepostitory.cs",
+              "RelativeToolTip": "AppData\\Repositories\\SachRepostitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:48:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TheLoaiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\TheLoaiRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\TheLoaiRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\TheLoaiRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\TheLoaiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:06:15.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ITheLoaiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ITheLoaiRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\ITheLoaiRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ITheLoaiRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\ITheLoaiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:06:05.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "NhanVienService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NhanVienService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\NhanVienService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\NhanVienService.cs",
+              "RelativeToolTip": "AppData\\Services\\NhanVienService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:05:08.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "INhanVienService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INhanVienService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\INhanVienService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\INhanVienService.cs",
+              "RelativeToolTip": "AppData\\Services\\INhanVienService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:04:59.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "NhanVienRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\NhanVienRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\NhanVienRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\NhanVienRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\NhanVienRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:03:54.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "KhachHangService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\KhachHangService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\KhachHangService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\KhachHangService.cs",
+              "RelativeToolTip": "AppData\\Services\\KhachHangService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:02:09.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "INhanVienRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INhanVienRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\INhanVienRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\INhanVienRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\INhanVienRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:03:46.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IKhachHangService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IKhachHangService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\IKhachHangService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IKhachHangService.cs",
+              "RelativeToolTip": "AppData\\Services\\IKhachHangService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:02:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "KhachHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\KhachHangRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\KhachHangRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\KhachHangRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\KhachHangRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:01:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IKhachHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IKhachHangRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IKhachHangRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IKhachHangRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IKhachHangRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:00:55.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "VaiTroService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\VaiTroService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\VaiTroService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\VaiTroService.cs",
+              "RelativeToolTip": "AppData\\Services\\VaiTroService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:59:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IVaiTroService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IVaiTroService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\IVaiTroService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\IVaiTroService.cs",
+              "RelativeToolTip": "AppData\\Services\\IVaiTroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:59:13.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "VaiTroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\VaiTroRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\VaiTroRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\VaiTroRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\VaiTroRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:57:46.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ISachService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ISachService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\ISachService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\ISachService.cs",
+              "RelativeToolTip": "AppData\\Services\\ISachService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:54:40.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SachService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\SachService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\SachService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Services\\SachService.cs",
+              "RelativeToolTip": "AppData\\Services\\SachService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:54:28.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IVaiTroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IVaiTroRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IVaiTroRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\IVaiTroRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IVaiTroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:57:36.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ISachRepostitory.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ISachRepostitory.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\ISachRepostitory.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Repositories\\ISachRepostitory.cs",
+              "RelativeToolTip": "AppData\\Repositories\\ISachRepostitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:50:07.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AppData.csproj",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\AppData.csproj",
+              "RelativeDocumentMoniker": "AppData\\AppData.csproj",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\AppData.csproj",
+              "RelativeToolTip": "AppData\\AppData.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T02:46:01.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "VaiTro.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\VaiTro.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\VaiTro.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\VaiTro.cs",
+              "RelativeToolTip": "AppView\\Models\\VaiTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:40:40.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\TacGia.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\TacGia.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\TacGia.cs",
+              "RelativeToolTip": "AppView\\Models\\TacGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:40:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SachCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\SachCT.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\SachCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\SachCT.cs",
+              "RelativeToolTip": "AppView\\Models\\SachCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:40:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\Sach.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\Sach.cs",
+              "RelativeToolTip": "AppView\\Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:40:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "PhieuNhapCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\PhieuNhapCT.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\PhieuNhapCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\PhieuNhapCT.cs",
+              "RelativeToolTip": "AppView\\Models\\PhieuNhapCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:40:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\NhanVien.cs",
+              "RelativeToolTip": "AppView\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:46.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "NgonNgu.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\NgonNgu.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\NgonNgu.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\NgonNgu.cs",
+              "RelativeToolTip": "AppView\\Models\\NgonNgu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\KhachHang.cs",
+              "RelativeToolTip": "AppView\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:32.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\PhieuNhap.cs",
+              "RelativeToolTip": "AppView\\Models\\PhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\NhaXuatBan.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\NhaXuatBan.cs",
+              "RelativeToolTip": "AppView\\Models\\NhaXuatBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:50.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\TheLoai.cs",
+              "RelativeToolTip": "AppView\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:38:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HoaDonCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\HoaDonCT.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\HoaDonCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\HoaDonCT.cs",
+              "RelativeToolTip": "AppView\\Models\\HoaDonCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:20.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Models\\HoaDon.cs",
+              "RelativeToolTip": "AppView\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:39:11.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Program.cs",
+              "RelativeDocumentMoniker": "AppView\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppView\\Program.cs",
+              "RelativeToolTip": "AppView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:32:31.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20241111023139_BookStore.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241111023139_BookStore.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241111023139_BookStore.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppData\\Migrations\\20241111023139_BookStore.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241111023139_BookStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:31:39.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QuanLyBanSach\\Wep_QuanLyBanSach\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T02:29:25.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
